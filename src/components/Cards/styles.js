@@ -9,7 +9,7 @@ export const StyledWrapper = styled.div`
 
 		.swiper {
 			width: 260px;
-			height: 360px;
+			height: 340px;
 		}
 
 		.swiper-slide {
