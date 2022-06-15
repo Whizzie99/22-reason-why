@@ -105,11 +105,11 @@ export const StyledWrapper = styled.div`
 			background-color: rgb(54, 94, 77);
 		}
 
-		.swiper-slide:nth-child(20n) {
+		.swiper-slide:nth-child(21n) {
 			background-color: rgb(0, 68, 255);
 		}
-		.swiper-slide:nth-child(20n) {
-			background-color: rgb(180, 10, 47);
+		.swiper-slide:nth-child(22n) {
+			background-color: rgb(0, 140, 255);
 		}
 	}
 `;

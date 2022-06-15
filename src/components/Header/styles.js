@@ -37,3 +37,5 @@ export const StyledWrapper = styled.div`
 		}
 	}
 `;
+
+function calculateDaysBetweenDates(begin, end) {}
