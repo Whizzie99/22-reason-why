@@ -9,9 +9,7 @@ const Header = () => {
 					<h1 data-aos="fade-down" data-aos-duration="1100">
 						22 reasons <br /> why
 					</h1>
-					<p data-aos="fade-up" data-aos-duration="1100">
-						hey babe!..This is me letting you know how special you are!
-					</p>
+					<p>hey babe!..This is me letting you know how special you are!</p>
 				</div>
 			</Container>
 		</StyledWrapper>
