@@ -11,7 +11,7 @@ export const StyledWrapper = styled.div`
 			text-align: center;
 			font-family: var(--font-stack-1);
 			text-transform: capitalize;
-			font-size: 3em;
+			font-size: 2.3em;
 			color: var(--white);
 		}
 
@@ -19,7 +19,7 @@ export const StyledWrapper = styled.div`
 			font-family: var(--font-stack-2);
 			text-align: center;
 			font-size: 1.5em;
-			margin: 1.5em 0;
+			margin: 1.3em 0;
 			font-weight: 400;
 			color: var(--white);
 		}

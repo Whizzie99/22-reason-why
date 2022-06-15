@@ -8,8 +8,8 @@ export const StyledWrapper = styled.div`
 		//margin: 0 auto;
 
 		.swiper {
-			width: 270px;
-			height: 370px;
+			width: 260px;
+			height: 360px;
 		}
 
 		.swiper-slide {
