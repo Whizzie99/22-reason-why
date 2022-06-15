@@ -6,12 +6,11 @@ const Header = () => {
 		<StyledWrapper>
 			<Container>
 				<div className="main-header-section">
-					<h1>
+					<h1 data-aos="fade-down" data-aos-duration="1100">
 						22 reasons <br /> why
 					</h1>
-					<p>
-						Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur,
-						excepturi!
+					<p data-aos="fade-up" data-aos-duration="1100">
+						hey babe!..This is me letting you know how special you are!
 					</p>
 				</div>
 			</Container>

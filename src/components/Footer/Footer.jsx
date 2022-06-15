@@ -3,7 +3,9 @@ import { StyledFooter } from './styles';
 const Footer = () => {
 	return (
 		<StyledFooter>
-			<p>specially crafted for Candy!❤️</p>
+			<p data-aos="fade-up" data-aos-duration="1300">
+				specially crafted for Candy!❤️
+			</p>
 		</StyledFooter>
 	);
 };
