@@ -21,5 +21,6 @@ export const GlobalStyles = createGlobalStyle`
 
   body{
     background: var(--purple);
+    height: fit-content;
   }
 `;

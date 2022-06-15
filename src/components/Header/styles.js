@@ -5,7 +5,7 @@ export const StyledWrapper = styled.div`
 		display: flex;
 		flex-direction: column;
 		align-items: center;
-		padding: 1.5em;
+		padding: 0.7em 1em;
 
 		h1 {
 			text-align: center;
@@ -19,7 +19,7 @@ export const StyledWrapper = styled.div`
 			font-family: var(--font-stack-2);
 			text-align: center;
 			font-size: 1.5em;
-			margin: 1.3em 0;
+			margin: 0.5em 0;
 			font-weight: 400;
 			color: var(--white);
 		}
